@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "description": "High-quality wireless headphones with noise cancellation and long battery life.",
+    "image": "https://productimages.hepsiburada.net/s/31/550/10330724761650.jpg/format:webp",
+    "price": 99.99,
+    "arrival_date": "2024-06-20T00:00:00",
+    "product_detail": {
+      "brand": "AudioTech",
+      "model": "AT-1000",
+      "warranty": "2 years"
+    },
+    "comments": [
+      {
+        "date": "2024-05-20T00:00:00",
+        "comment": "Great sound quality and very comfortable.",
+        "rate": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Smartwatch Series 5",
+    "description": "Advanced smartwatch with fitness tracking, heart rate monitoring, and GPS.",
+    "image": "https://productimages.hepsiburada.net/s/462/550/110000499323459.jpg/format:webp",
+    "price": 199.99,
+    "arrival_date": "2024-06-20T00:00:00",
+    "product_detail": {
+      "brand": "TechWear",
+      "model": "TW-200",
+      "warranty": "1 year"
+    },
+    "comments": [
+      {
+        "date": "2024-05-20T00:00:00",
+        "comment": "Amazing features and sleek design.",
+        "rate": 5
+      },
+      {
+        "date": "2024-04-20T00:00:00",
+        "comment": "A bit overpriced, but overall a good product.",
+        "rate": 4
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "4K Ultra HD TV",
+    "description": "65-inch 4K Ultra HD television with HDR and smart TV features.",
+    "image": "https://productimages.hepsiburada.net/s/551/550/110000613270611.jpg/format:webp",
+    "price": 799.99,
+    "arrival_date": "2024-06-20T00:00:00",
+    "product_detail": {
+      "brand": "VisionMax",
+      "model": "VM-5500",
+      "warranty": "3 years"
+    },
+    "comments": [
+      {
+        "date": "2024-04-20T00:00:00",
+        "comment": "Stunning picture quality and easy to set up.",
+        "rate": 5
+      },
+      {
+        "date": "2024-03-20T00:00:00",
+        "comment": "Remote control could be more intuitive.",
+        "rate": 3
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Gaming Laptop",
+    "description": "High-performance gaming laptop with the latest graphics card and fast processor.",
+    "image": "https://productimages.hepsiburada.net/s/777/550/110000664868344.jpg/format:webp",
+    "price": 1299.99,
+    "arrival_date": "2024-06-20T00:00:00",
+    "product_detail": {
+      "brand": "GameTech",
+      "model": "GTX-2024",
+      "warranty": "2 years"
+    },
+    "comments": [
+      {
+        "date": "2024-03-20T00:00:00",
+        "comment": "Runs all the latest games smoothly. Excellent performance.",
+        "rate": 5
+      },
+      {
+        "date": "2024-02-20T00:00:00",
+        "comment": "Gets a bit hot during intense gaming sessions.",
+        "rate": 4
+      }
+    ]
+  }
+]
