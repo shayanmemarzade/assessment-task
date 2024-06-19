@@ -1,7 +1,7 @@
 import { Comment } from '../types/product'
 
 export default function calculateAverageRate(comments: Comment[]): number {
-    if (!comments || comments.length === 0) {
+    if (comments.length === 0) {
         return 0;
     }
 
