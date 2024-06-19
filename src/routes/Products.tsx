@@ -4,14 +4,13 @@ import { Rating } from '@smastrom/react-rating'
 import '@smastrom/react-rating/style.css'
 import calculateAverageRate from '../utils/calculateAverageRate';
 import { Product } from '../types';
+import { RootState } from '../store';
 
-interface state {
-  products: Product[];
-}
 
 export default function Products() {
-  const products: Product[] = useSelector((state: state) => state.products);
+  const products: Product[] = useSelector((state: RootState) => state.products);
 
+  
   return (
     <div className="px-4 py-16 mx-auto max-w-2xl lg:max-w-7xl">
       <div className="mt-6 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
